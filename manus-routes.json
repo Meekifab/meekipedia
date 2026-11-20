@@ -1,0 +1,80 @@
+{
+  "routes": [
+    {
+      "path": "/index.html",
+      "title": "Home"
+    },
+    {
+      "path": "/about.html",
+      "title": "About Meekipedia"
+    },
+    {
+      "path": "/login.html",
+      "title": "Login"
+    },
+    {
+      "path": "/signup.html",
+      "title": "Create your account"
+    },
+    {
+      "path": "/forgot-password.html",
+      "title": "Forgot password"
+    },
+    {
+      "path": "/reset-password.html",
+      "title": "Reset password"
+    },
+    {
+      "path": "/search.html",
+      "title": "Search results"
+    },
+    {
+      "path": "/pages/library.html",
+      "title": "Academic Library"
+    },
+    {
+      "path": "/pages/tutorials.html",
+      "title": "Tutorials"
+    },
+    {
+      "path": "/pages/recommendations.html",
+      "title": "Recommendations"
+    },
+    {
+      "path": "/pages/ai-assistant.html",
+      "title": "AI Academic Assistant"
+    },
+    {
+      "path": "/dashboard/index.html",
+      "title": "Student Dashboard"
+    },
+    {
+      "path": "/dashboard/history.html",
+      "title": "Search History"
+    },
+    {
+      "path": "/dashboard/saved.html",
+      "title": "Saved Resources"
+    },
+    {
+      "path": "/dashboard/profile.html",
+      "title": "Profile and Settings"
+    },
+    {
+      "path": "/admin/index.html",
+      "title": "Admin Dashboard"
+    },
+    {
+      "path": "/admin/users.html",
+      "title": "Admin User Management"
+    },
+    {
+      "path": "/admin/resources.html",
+      "title": "Curated Resource Management"
+    },
+    {
+      "path": "/admin/announcements.html",
+      "title": "Announcement Management"
+    }
+  ]
+}
